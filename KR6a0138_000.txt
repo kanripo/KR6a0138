@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說力士移山經
+#+DATE: 2015-08-30 19:32:43.025587
+#+PROPERTY: JUAN 0
